@@ -1,0 +1,1 @@
+{"ArgumentVector": ["$file"], "Framework": "PySpark", "CondaDependenciesFile": null, "SparkDependenciesFile": null, "TrackedRun": true, "Target": "gpuvm", "PrepareEnvironment": true}

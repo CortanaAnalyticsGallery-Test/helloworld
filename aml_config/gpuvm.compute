@@ -1,0 +1,7 @@
+address: 13.66.30.135
+baseDockerImage: microsoft/mmlspark:int
+nativeSharedDirectory: ~/.azureml/share/
+password: gpuvm#testuser#dadbdf1b6b59480abf06f73ff91ddf71
+sharedVolumes: true
+type: virtualmachine
+username: testuser

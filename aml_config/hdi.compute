@@ -1,0 +1,4 @@
+address: mltesthdi-ssh.azurehdinsight.net
+password: '!MLTestHdi01'
+type: cluster
+username: sshuser
